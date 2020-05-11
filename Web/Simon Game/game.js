@@ -4,7 +4,7 @@ var userClickedPattern = [];
 var started = false;
 var level = 0;
 
-alert("The game doesn't show all sequence you have to follow, just the next button. But you must memorize all sequence. So this give you more challenge ! Good luck and Have fun !")
+alert("The game doesn't show all the sequence you have to follow, just the next colour you have to press. But you must memorize all the sequence. So this will give you more challenge ! Good luck and Have fun !")
 
 function startGame(){
     nextSequence();
