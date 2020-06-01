@@ -11,6 +11,3 @@ https://raphael1202.github.io/OnlineDrumKit/
 
 Simon Game - Built using JavaScript, JQuery, CSS3 and HTML5.
 https://raphael1202.github.io/SimonGame/
-
-Newsletter Sign-up - Built using Node.js, CSS3, HTML5 and the MailChimp API.
-https://fathomless-scrubland-03768.herokuapp.com/
