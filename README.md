@@ -1,4 +1,4 @@
-Projects
+<h1>Projects</h1>
 
 If you want to have a look in some of them, you'll find bellow the weblinks and you can also have a look at the codes by going through my repository.
 
