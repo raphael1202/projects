@@ -1,0 +1,8 @@
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.deps.json
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.dll
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\bin\Debug\netstandard2.0\QuickBuy.Repository.pdb
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.AssemblyInfo.cs
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.dll
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Repository\obj\Debug\netstandard2.0\QuickBuy.Repository.pdb

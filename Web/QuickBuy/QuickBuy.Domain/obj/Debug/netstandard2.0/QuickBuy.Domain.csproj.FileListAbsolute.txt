@@ -1,0 +1,9 @@
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\bin\Debug\netstandard2.0\QuickBuy.Domain.deps.json
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\bin\Debug\netstandard2.0\QuickBuy.Domain.dll
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\bin\Debug\netstandard2.0\QuickBuy.Domain.pdb
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\obj\Debug\netstandard2.0\QuickBuy.Domain.csprojAssemblyReference.cache
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\obj\Debug\netstandard2.0\QuickBuy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\obj\Debug\netstandard2.0\QuickBuy.Domain.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\obj\Debug\netstandard2.0\QuickBuy.Domain.AssemblyInfo.cs
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\obj\Debug\netstandard2.0\QuickBuy.Domain.dll
+C:\Users\rapha\Documents\Raphael\Developer\Projects\Web\QuickBuy\QuickBuy.Domain\obj\Debug\netstandard2.0\QuickBuy.Domain.pdb
