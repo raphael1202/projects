@@ -19,7 +19,7 @@
         </ul>
 
         <div class="dropdown" *ngIf="(accountService.currentUser$ | async) as user" dropdown>
-            <a class="dropdown-toggle text-light" dropdownToggle>Welcome {{user.userName | titlecase}}</a>
+            <a class="dropdown-toggle text-light" dropdownToggle>Welcome {{user.username | titlecase}}</a>
             <div class="dropdown-menu mt-3" *dropdownMenu>
                 <a class="dropdown-item">Edit Profile</a>
                 <div class="dropdown-divider"></div>
@@ -29,7 +29,7 @@
 
         <form *ngIf="(accountService.currentUser$ | async) === null" #loginForm="ngForm"
             class="form-inline mt-2 mt-md-0" (ngSubmit)="login()" autocomplete="off">
-            <input [(ngModel)]="model.userName" name="userName" class="form-control mr-sm-2" type="text"
+            <input [(ngModel)]="model.username" name="username" class="form-control mr-sm-2" type="text"
                 placeholder="Username">
             <input name="password" [(ngModel)]="model.password" class="form-control mr-sm-2" type="Password"
                 placeholder="Password">
